@@ -1,0 +1,7 @@
+check list 
+What is the reaction of the system to the input of a valid email?
+What is the reaction of the system to the input of an email that already exists in the system?
+What is the reaction of the system to the input of characters in excess of the maximum allowable number?
+check which domain names are possible
+What is the reaction of the system to the input of an incorrect email?
+
